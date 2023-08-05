@@ -6,7 +6,12 @@
       "email": "user@gmail.com",
       "phone": "7347423834",
       "password": "password",
-      "cart": [],
+      "cart": [
+        {
+          "id": 1,
+          "product_name": "Vehicale tire"
+        }
+      ],
       "orders": []
     }
   ],
