@@ -6,8 +6,8 @@
       "email": "user@gmail.com",
       "phone": "7347423834",
       "password": "password",
-      "cart": [{}],
-      "orders": [{}]
+      "cart": [],
+      "orders": []
     }
   ],
   "products": [],
