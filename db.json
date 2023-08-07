@@ -16,7 +16,32 @@
     }
   ],
   "products": [],
-  "category": [],
+  "category": [
+    {
+      "image_url": "https://res.cloudinary.com/dkliqwzoi/image/upload/v1691391965/autopart/Lamborghini_Aventador_Yellow_563347_1280x640-removebg-preview_mabjpo.png",
+      "name": "Exterior"
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/51J5impF5kL._AC._SR240,240.jpg",
+      "name": "Interior"
+    },
+    {
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/July/carpartsstore/1057312_C1-670x581.jpg",
+      "name": "Wheels and Tires"
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/7154oduVFOL._AC_UL320_.jpg",
+      "name": "Car body parts"
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/61aBH+cXL2L._AC_UY218_.jpg",
+      "name": "Electronics"
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/610gNDaoRiS._AC_UL320_.jpg",
+      "name": "Tools and Garage"
+    }
+  ],
   "featured_products": [],
   "blogs": [],
   "offers": [],
