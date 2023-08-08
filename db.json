@@ -12,6 +12,7 @@
   ],
   "products": [
     {
+      "id": 1,
       "image_url": "https://n1.sdlcdn.com/imgs/k/l/1/large/NBOX-Black-Single-Clamp-Car-SDL650977113-1-061c1.webp",
       "name": "NBOX - Black Single Clamp Car Mobile Holder",
       "category": "interior",
@@ -78,14 +79,17 @@
       "image_url": "https://n4.sdlcdn.com/imgs/k/b/y/large/Crust-Black-Bluetooth-Device-SDL029208845-1-14527.webp"
     },
     {
+      "id": 2,
       "name": "HOMETALES - Grey Car Body Cover For Mahindra Xylo Without Mirror Pocket (Pack Of1)",
       "image_url": "https://n1.sdlcdn.com/imgs/k/k/v/large/HOMETALES-Grey-Car-Body-Cover-SDL055874052-1-81bda.jpeg"
     },
     {
+      "id": 3,
       "name": "AUTOPOWERZ 2 Led OWL Shape Fog Yellow-White light Low & High Beam for universal",
       "image_url": "https://n4.sdlcdn.com/imgs/k/n/e/large/AUTOPOWERZ-2-Led-OWL-Shape-SDL188243727-1-e879b.jpeg"
     },
     {
+      "id": 4,
       "name": "AutoPowerz - Front Head Light For All Car and Bike Models ( Single )",
       "image_url": "https://n1.sdlcdn.com/imgs/k/j/b/large/AutoPowerz-Front-Head-Light-For-SDL270847579-1-4d65b.webp"
     }
