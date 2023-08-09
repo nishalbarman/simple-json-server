@@ -6,7 +6,15 @@
       "email": "demo@gmail.com",
       "phone": "7347423834",
       "password": "password",
-      "address": "Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Bangalore-560016",
+      "address": {
+        "fullname": "",
+        "mobile_no": "",
+        "full_address": "",
+        "locality": "",
+        "district": "",
+        "pin_code": "",
+        "state": ""
+      },
       "cart": [
         {
           "id": 1,
